@@ -71,6 +71,13 @@ Next.js, TypeScript, Tailwind CSS, Supabase
 - Facebook: https://facebook.com/bysry  
 
 ---
+## 📊 GitHub Insights
+
+![](https://github-readme-stats.vercel.app/api?username=beloyosry&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=beloyosry&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=beloyosry&layout=compact&theme=github_dark&hide_border=true)
 
 ## ⚡ Philosophy
 
